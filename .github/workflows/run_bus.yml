@@ -42,7 +42,7 @@ jobs:
         run: pip install -r ./requirements.txt
         
       - name: 'run 【BUS】' 
-        run: python3 bus_jav.py
+        run: python3 busjav.py
 
 		
      # - name: 'Push changes'
