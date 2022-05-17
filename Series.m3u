@@ -5,7 +5,9 @@
 ##
 #EXTINF:-1 group-title="目录",小学风云 8.3分 共13集
 ##
-#EXTINF:-1 group-title="目录",如我们所见 8.2分 共8集
+#EXTINF:-1 group-title="目录",林肯律师 7.6分 共1集
+##
+#EXTINF:-1 group-title="目录",绝望写手 第二季 9.3分 共2集
 ##
 #EXTINF:-1 group-title="目录",月光骑士 8.0分 共6集
 ##
@@ -16,8 +18,6 @@
 #EXTINF:-1 group-title="目录",流人 第一季 8.5分 共6集
 ##
 #EXTINF:-1 group-title="目录",爱，死亡和机器人 第二季 6.8分 共8集
-##
-#EXTINF:-1 group-title="目录",天堂旗帜下 8.4分 共4集
 ##
 #EXTINF:-1 group-title="美剧 闪亮女孩_评分8.9",闪亮女孩 E1
 https://v.v1kd.com/20220513/5XAWCP7r/index.m3u8
@@ -73,22 +73,12 @@ XMMjE0MTc2MDAwMF8xMQ==
 XMMjE0MTc2MDAwMF8xMg==
 #EXTINF:-1 group-title="美剧 小学风云_评分8.3",小学风云 E13
 XMMjE0MTc2MDAwMF8xMw==
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E1
-https://v.v1kd.com/20220126/JC2fPly5/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E2
-https://v.v1kd.com/20220126/KBhMunyw/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E3
-https://v.v1kd.com/20220126/PFNOadj0/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E4
-https://v.v1kd.com/20220126/471YRrRv/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E5
-https://v.v1kd.com/20220126/wW4t8h37/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E6
-https://v.v1kd.com/20220126/9I9VbPmp/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E7
-https://v.v1kd.com/20220126/0PcLGBAz/index.m3u8
-#EXTINF:-1 group-title="美剧 如我们所见_评分8.2",如我们所见 E8
-https://v.v1kd.com/20220126/aJBAHGyC/index.m3u8
+#EXTINF:-1 group-title="美剧 林肯律师_评分7.6",林肯律师 E1
+https://youku.com-youku.com/20180101/nIp3IOve/index.m3u8
+#EXTINF:-1 group-title="美剧 绝望写手 第二季_评分9.3",绝望写手 第二季 E1
+XMMjI3ODczMDAwMF8x
+#EXTINF:-1 group-title="美剧 绝望写手 第二季_评分9.3",绝望写手 第二季 E2
+XMMjI3ODczMDAwMF8y
 #EXTINF:-1 group-title="美剧 月光骑士_评分8.0",月光骑士 E1
 XMMjIyNjg2MDAwMF8x
 #EXTINF:-1 group-title="美剧 月光骑士_评分8.0",月光骑士 E2
@@ -147,34 +137,84 @@ https://v.v1kd.com/20220120/p3gbMnYk/index.m3u8
 https://v.v1kd.com/20220120/Z1SuWGab/index.m3u8
 #EXTINF:-1 group-title="美剧 爱，死亡和机器人 第二季_评分6.8",爱，死亡和机器人 第二季 E8
 https://v.v1kd.com/20220120/iW1D4XNS/index.m3u8
-#EXTINF:-1 group-title="美剧 天堂旗帜下_评分8.4",天堂旗帜下 E1
-XMMjI3MDI0MDAwMF8x
-#EXTINF:-1 group-title="美剧 天堂旗帜下_评分8.4",天堂旗帜下 E2
-XMMjI3MDI0MDAwMF8y
-#EXTINF:-1 group-title="美剧 天堂旗帜下_评分8.4",天堂旗帜下 E3
-XMMjI3MDI0MDAwMF8z
-#EXTINF:-1 group-title="美剧 天堂旗帜下_评分8.4",天堂旗帜下 E4
-XMMjI3MDI0MDAwMF80
+#EXTINF:-1 group-title="目录",请叫我总监 6.8分 共29集
+##
 #EXTINF:-1 group-title="目录",重生之门 分 共1集
 ##
 #EXTINF:-1 group-title="目录",风起陇西 7.9分 共24集
 ##
 #EXTINF:-1 group-title="目录",异物志 8.2分 共36集
 ##
-#EXTINF:-1 group-title="目录",请叫我总监 6.7分 共26集
-##
 #EXTINF:-1 group-title="目录",反转人生 分 共1集
 ##
-#EXTINF:-1 group-title="目录",女士的法则 分 共16集
+#EXTINF:-1 group-title="目录",女士的法则 分 共20集
 ##
-#EXTINF:-1 group-title="目录",良辰好景知几何 分 共27集
+#EXTINF:-1 group-title="目录",良辰好景知几何 分 共29集
+##
+#EXTINF:-1 group-title="目录",且试天下 分 共38集
 ##
 #EXTINF:-1 group-title="目录",毛骗 第一季 8.6分 共20集
 ##
-#EXTINF:-1 group-title="目录",且试天下 分 共34集
+#EXTINF:-1 group-title="目录",别跟姐姐撒野 分 共10集
 ##
-#EXTINF:-1 group-title="目录",对决 分 共10集
-##
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E1
+XMMjI2ODA2MDAwMF8x
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E2
+XMMjI2ODA2MDAwMF8y
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E3
+XMMjI2ODA2MDAwMF8z
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E4
+XMMjI2ODA2MDAwMF80
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E5
+XMMjI2ODA2MDAwMF81
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E6
+XMMjI2ODA2MDAwMF82
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E7
+XMMjI2ODA2MDAwMF83
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E8
+XMMjI2ODA2MDAwMF84
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E9
+XMMjI2ODA2MDAwMF85
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E10
+XMMjI2ODA2MDAwMF8xMA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E11
+XMMjI2ODA2MDAwMF8xMQ==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E12
+XMMjI2ODA2MDAwMF8xMg==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E13
+XMMjI2ODA2MDAwMF8xMw==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E14
+XMMjI2ODA2MDAwMF8xNA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E15
+XMMjI2ODA2MDAwMF8xNQ==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E16
+XMMjI2ODA2MDAwMF8xNg==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E17
+XMMjI2ODA2MDAwMF8xNw==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E18
+XMMjI2ODA2MDAwMF8xOA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E19
+XMMjI2ODA2MDAwMF8xOQ==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E20
+XMMjI2ODA2MDAwMF8yMA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E21
+XMMjI2ODA2MDAwMF8yMQ==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E22
+XMMjI2ODA2MDAwMF8yMg==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E23
+XMMjI2ODA2MDAwMF8yMw==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E24
+XMMjI2ODA2MDAwMF8yNA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E25
+XMMjI2ODA2MDAwMF8yNQ==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E26
+XMMjI2ODA2MDAwMF8yNg==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E27
+XMMjI2ODA2MDAwMF8yNw==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E28
+XMMjI2ODA2MDAwMF8yOA==
+#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.8",请叫我总监 E29
+XMMjI2ODA2MDAwMF8yOQ==
 #EXTINF:-1 group-title="国产剧 重生之门_评分暂无",重生之门 E1
 https://jingdian.qincai-zuida.com/20200814/10232_f26e1b1f/index.m3u8
 #EXTINF:-1 group-title="国产剧 风起陇西_评分7.9",风起陇西 E1
@@ -297,186 +337,106 @@ XMMjI0NTI1MDAwMF8zNA==
 XMMjI0NTI1MDAwMF8zNQ==
 #EXTINF:-1 group-title="国产剧 异物志_评分8.2",异物志 E36
 XMMjI0NTI1MDAwMF8zNg==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E1
-XMMjI2ODA2MDAwMF8x
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E2
-XMMjI2ODA2MDAwMF8y
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E3
-XMMjI2ODA2MDAwMF8z
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E4
-XMMjI2ODA2MDAwMF80
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E5
-XMMjI2ODA2MDAwMF81
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E6
-XMMjI2ODA2MDAwMF82
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E7
-XMMjI2ODA2MDAwMF83
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E8
-XMMjI2ODA2MDAwMF84
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E9
-XMMjI2ODA2MDAwMF85
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E10
-XMMjI2ODA2MDAwMF8xMA==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E11
-XMMjI2ODA2MDAwMF8xMQ==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E12
-XMMjI2ODA2MDAwMF8xMg==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E13
-XMMjI2ODA2MDAwMF8xMw==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E14
-XMMjI2ODA2MDAwMF8xNA==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E15
-XMMjI2ODA2MDAwMF8xNQ==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E16
-XMMjI2ODA2MDAwMF8xNg==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E17
-XMMjI2ODA2MDAwMF8xNw==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E18
-XMMjI2ODA2MDAwMF8xOA==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E19
-XMMjI2ODA2MDAwMF8xOQ==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E20
-XMMjI2ODA2MDAwMF8yMA==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E21
-XMMjI2ODA2MDAwMF8yMQ==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E22
-XMMjI2ODA2MDAwMF8yMg==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E23
-XMMjI2ODA2MDAwMF8yMw==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E24
-XMMjI2ODA2MDAwMF8yNA==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E25
-XMMjI2ODA2MDAwMF8yNQ==
-#EXTINF:-1 group-title="国产剧 请叫我总监_评分6.7",请叫我总监 E26
-XMMjI2ODA2MDAwMF8yNg==
 #EXTINF:-1 group-title="国产剧 反转人生_评分暂无",反转人生 E1
 https://v.kdcdn.net/20210903/rVBGrZAA/index.m3u8
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E1
-XMMjI3MzU1MDAwMF8x
+XMMjI3NjkxMDAwMF8x
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E2
-XMMjI3MzU1MDAwMF8y
+XMMjI3NjkxMDAwMF8y
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E3
-XMMjI3MzU1MDAwMF8z
+XMMjI3NjkxMDAwMF8z
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E4
-XMMjI3MzU1MDAwMF80
+XMMjI3NjkxMDAwMF80
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E5
-XMMjI3MzU1MDAwMF81
+XMMjI3NjkxMDAwMF81
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E6
-XMMjI3MzU1MDAwMF82
+XMMjI3NjkxMDAwMF82
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E7
-XMMjI3MzU1MDAwMF83
+XMMjI3NjkxMDAwMF83
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E8
-XMMjI3MzU1MDAwMF84
+XMMjI3NjkxMDAwMF84
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E9
-XMMjI3MzU1MDAwMF85
+XMMjI3NjkxMDAwMF85
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E10
-XMMjI3MzU1MDAwMF8xMA==
+XMMjI3NjkxMDAwMF8xMA==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E11
-XMMjI3MzU1MDAwMF8xMQ==
+XMMjI3NjkxMDAwMF8xMQ==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E12
-XMMjI3MzU1MDAwMF8xMg==
+XMMjI3NjkxMDAwMF8xMg==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E13
-XMMjI3MzU1MDAwMF8xMw==
+XMMjI3NjkxMDAwMF8xMw==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E14
-XMMjI3MzU1MDAwMF8xNA==
+XMMjI3NjkxMDAwMF8xNA==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E15
-XMMjI3MzU1MDAwMF8xNQ==
+XMMjI3NjkxMDAwMF8xNQ==
 #EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E16
-XMMjI3MzU1MDAwMF8xNg==
+XMMjI3NjkxMDAwMF8xNg==
+#EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E17
+XMMjI3NjkxMDAwMF8xNw==
+#EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E18
+XMMjI3NjkxMDAwMF8xOA==
+#EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E19
+XMMjI3NjkxMDAwMF8xOQ==
+#EXTINF:-1 group-title="国产剧 女士的法则_评分暂无",女士的法则 E20
+XMMjI3NjkxMDAwMF8yMA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E1
-XMMjI3MzY2MDAwMF8x
+XMMjI2MzQ0MDAwMF8x
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E2
-XMMjI3MzY2MDAwMF8y
+XMMjI2MzQ0MDAwMF8y
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E3
-XMMjI3MzY2MDAwMF8z
+XMMjI2MzQ0MDAwMF8z
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E4
-XMMjI3MzY2MDAwMF80
+XMMjI2MzQ0MDAwMF80
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E5
-XMMjI3MzY2MDAwMF81
+XMMjI2MzQ0MDAwMF81
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E6
-XMMjI3MzY2MDAwMF82
+XMMjI2MzQ0MDAwMF82
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E7
-XMMjI3MzY2MDAwMF83
+XMMjI2MzQ0MDAwMF83
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E8
-XMMjI3MzY2MDAwMF84
+XMMjI2MzQ0MDAwMF84
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E9
-XMMjI3MzY2MDAwMF85
+XMMjI2MzQ0MDAwMF85
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E10
-XMMjI3MzY2MDAwMF8xMA==
+XMMjI2MzQ0MDAwMF8xMA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E11
-XMMjI3MzY2MDAwMF8xMQ==
+XMMjI2MzQ0MDAwMF8xMQ==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E12
-XMMjI3MzY2MDAwMF8xMg==
+XMMjI2MzQ0MDAwMF8xMg==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E13
-XMMjI3MzY2MDAwMF8xMw==
+XMMjI2MzQ0MDAwMF8xMw==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E14
-XMMjI3MzY2MDAwMF8xNA==
+XMMjI2MzQ0MDAwMF8xNA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E15
-XMMjI3MzY2MDAwMF8xNQ==
+XMMjI2MzQ0MDAwMF8xNQ==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E16
-XMMjI3MzY2MDAwMF8xNg==
+XMMjI2MzQ0MDAwMF8xNg==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E17
-XMMjI3MzY2MDAwMF8xNw==
+XMMjI2MzQ0MDAwMF8xNw==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E18
-XMMjI3MzY2MDAwMF8xOA==
+XMMjI2MzQ0MDAwMF8xOA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E19
-XMMjI3MzY2MDAwMF8xOQ==
+XMMjI2MzQ0MDAwMF8xOQ==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E20
-XMMjI3MzY2MDAwMF8yMA==
+XMMjI2MzQ0MDAwMF8yMA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E21
-XMMjI3MzY2MDAwMF8yMQ==
+XMMjI2MzQ0MDAwMF8yMQ==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E22
-XMMjI3MzY2MDAwMF8yMg==
+XMMjI2MzQ0MDAwMF8yMg==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E23
-XMMjI3MzY2MDAwMF8yMw==
+XMMjI2MzQ0MDAwMF8yMw==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E24
-XMMjI3MzY2MDAwMF8yNA==
+XMMjI2MzQ0MDAwMF8yNA==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E25
-XMMjI3MzY2MDAwMF8yNQ==
+XMMjI2MzQ0MDAwMF8yNQ==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E26
-XMMjI3MzY2MDAwMF8yNg==
+XMMjI2MzQ0MDAwMF8yNg==
 #EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E27
-XMMjI3MzY2MDAwMF8yNw==
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E1
-https://leshi.cdn-zuyida.com/20171117/csMgYhpJ/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E2
-https://leshi.cdn-zuyida.com/20171117/l166vlJS/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E3
-https://leshi.cdn-zuyida.com/20171117/nr3y2oWN/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E4
-https://leshi.cdn-zuyida.com/20171117/psne1pCD/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E5
-https://leshi.cdn-zuyida.com/20171117/lRPmh04j/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E6
-https://leshi.cdn-zuyida.com/20171117/iYhFBSbO/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E7
-https://leshi.cdn-zuyida.com/20171117/SY60CSlk/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E8
-https://leshi.cdn-zuyida.com/20171117/fmnO3oHs/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E9
-https://leshi.cdn-zuyida.com/20171117/pT3h8Bzd/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E10
-https://leshi.cdn-zuyida.com/20171117/xJcuJjIs/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E11
-https://leshi.cdn-zuyida.com/20171117/Au6taWNw/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E12
-https://leshi.cdn-zuyida.com/20171117/MIehsjNX/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E13
-https://leshi.cdn-zuyida.com/20171117/egpaD1T5/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E14
-https://leshi.cdn-zuyida.com/20171117/38cEWJEW/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E15
-https://leshi.cdn-zuyida.com/20171117/loOYuTsU/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E16
-https://leshi.cdn-zuyida.com/20171117/XABOs1YV/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E17
-https://leshi.cdn-zuyida.com/20171117/unlXergZ/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E18
-https://leshi.cdn-zuyida.com/20171117/5a15z96K/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E19
-https://leshi.cdn-zuyida.com/20171117/2ji7fmi9/index.m3u8
-#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E20
-https://leshi.cdn-zuyida.com/20171117/VEMmsmPl/index.m3u8
+XMMjI2MzQ0MDAwMF8yNw==
+#EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E28
+XMMjI2MzQ0MDAwMF8yOA==
+#EXTINF:-1 group-title="国产剧 良辰好景知几何_评分暂无",良辰好景知几何 E29
+XMMjI2MzQ0MDAwMF8yOQ==
 #EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E1
 XMMjI3NTY5MDAwMF8x
 #EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E2
@@ -545,26 +505,74 @@ XMMjI3NTY5MDAwMF8zMg==
 XMMjI3NTY5MDAwMF8zMw==
 #EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E34
 XMMjI3NTY5MDAwMF8zNA==
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E1
-XMMjI3ODI3MDAwMF8x
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E2
-XMMjI3ODI3MDAwMF8y
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E3
-XMMjI3ODI3MDAwMF8z
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E4
-XMMjI3ODI3MDAwMF80
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E5
-XMMjI3ODI3MDAwMF81
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E6
-XMMjI3ODI3MDAwMF82
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E7
-XMMjI3ODI3MDAwMF83
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E8
-XMMjI3ODI3MDAwMF84
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E9
-XMMjI3ODI3MDAwMF85
-#EXTINF:-1 group-title="国产剧 对决_评分暂无",对决 E10
-XMMjI3ODI3MDAwMF8xMA==
+#EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E35
+XMMjI3NTY5MDAwMF8zNQ==
+#EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E36
+XMMjI3NTY5MDAwMF8zNg==
+#EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E37
+XMMjI3NTY5MDAwMF8zNw==
+#EXTINF:-1 group-title="国产剧 且试天下_评分暂无",且试天下 E38
+XMMjI3NTY5MDAwMF8zOA==
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E1
+https://leshi.cdn-zuyida.com/20171117/csMgYhpJ/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E2
+https://leshi.cdn-zuyida.com/20171117/l166vlJS/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E3
+https://leshi.cdn-zuyida.com/20171117/nr3y2oWN/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E4
+https://leshi.cdn-zuyida.com/20171117/psne1pCD/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E5
+https://leshi.cdn-zuyida.com/20171117/lRPmh04j/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E6
+https://leshi.cdn-zuyida.com/20171117/iYhFBSbO/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E7
+https://leshi.cdn-zuyida.com/20171117/SY60CSlk/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E8
+https://leshi.cdn-zuyida.com/20171117/fmnO3oHs/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E9
+https://leshi.cdn-zuyida.com/20171117/pT3h8Bzd/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E10
+https://leshi.cdn-zuyida.com/20171117/xJcuJjIs/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E11
+https://leshi.cdn-zuyida.com/20171117/Au6taWNw/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E12
+https://leshi.cdn-zuyida.com/20171117/MIehsjNX/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E13
+https://leshi.cdn-zuyida.com/20171117/egpaD1T5/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E14
+https://leshi.cdn-zuyida.com/20171117/38cEWJEW/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E15
+https://leshi.cdn-zuyida.com/20171117/loOYuTsU/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E16
+https://leshi.cdn-zuyida.com/20171117/XABOs1YV/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E17
+https://leshi.cdn-zuyida.com/20171117/unlXergZ/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E18
+https://leshi.cdn-zuyida.com/20171117/5a15z96K/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E19
+https://leshi.cdn-zuyida.com/20171117/2ji7fmi9/index.m3u8
+#EXTINF:-1 group-title="国产剧 毛骗 第一季_评分8.6",毛骗 第一季 E20
+https://leshi.cdn-zuyida.com/20171117/VEMmsmPl/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E1
+https://new.iskcd.com/20220514/gH1C94f1/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E2
+https://new.iskcd.com/20220514/BsL60710/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E3
+https://new.iskcd.com/20220514/tiU5CW49/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E4
+https://new.iskcd.com/20220514/bHgBX24Y/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E5
+https://new.iskcd.com/20220514/JdhZ3iT8/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E6
+https://new.iskcd.com/20220514/UrzHNnu5/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E7
+https://new.iskcd.com/20220515/7M3DFapV/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E8
+https://new.iskcd.com/20220515/xWWy41qA/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E9
+https://new.iskcd.com/20220516/5UMVdiVw/index.m3u8
+#EXTINF:-1 group-title="国产剧 别跟姐姐撒野_评分暂无",别跟姐姐撒野 E10
+https://new.iskcd.com/20220516/Iioaem95/index.m3u8
 #EXTINF:-1 group-title="目录",心居更新至35集完结 共35集
 ##
 #EXTINF:-1 group-title="心居",心居 E1
